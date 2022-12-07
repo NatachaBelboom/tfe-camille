@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7dd83c-db17-47a6-bebf-848241a12fc9" name="Changes" comment="initial commit">
+    <list default="true" id="3c7dd83c-db17-47a6-bebf-848241a12fc9" name="Changes" comment="add readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,9 @@
       <workItem from="1669040467137" duration="307000" />
       <workItem from="1669133305176" duration="3309000" />
       <workItem from="1669198621892" duration="5282000" />
+      <workItem from="1669640148123" duration="1316000" />
+      <workItem from="1669648694488" duration="10000" />
+      <workItem from="1670403588649" duration="3464000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1667820118158</created>
@@ -59,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667820118158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1669640247190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669640247190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
 </project>
