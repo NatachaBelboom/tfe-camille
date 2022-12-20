@@ -5,7 +5,7 @@
 ## Présentation de l'ensemble du projet
 ### Présentation de la cliente
 
-Camille Evrard est une architecte d'intérieur depuis quelques années. Ayant fais ses études à l'Ecole Supérieure des Arts à St-Luc à Liège,
+Camille Evrard est architecte d'intérieur depuis quelques années. Ayant fais ses études à l'Ecole Supérieure des Arts à St-Luc à Liège,
 option architecture d'intérieur, elle travaille maintenant chez Sohoo à Wierde. 
 
 En plus de son métier d'architecte d'intérieur, Camille veut se lancer dans la création de tableaux brodés.
@@ -33,7 +33,7 @@ Le site n'a pas besoin d'être en multilingue. Et sera évidemment adapté pour 
 ### Description de l'existant
 
 Il n'y a pas encore de site existant.
-C'est un tout nouveau projet donc il n'y a pas encore de nom de domaine ni d'hébergement et pas de logo.
+C'est un tout nouveau projet donc il n'y a pas encore de nom de domaine ni d'hébergement, pas de logo ni de nom défini pour l'instant.
 
 ## Description graphique et ergonomique
 ### Charte graphique
@@ -41,7 +41,7 @@ C'est un tout nouveau projet donc il n'y a pas encore de nom de domaine ni d'hé
 Le lien du moodboard : (à faire)
 
 Pour la partie architecture: le style est épuré, minimaliste, léger. Le site est principalement blanc mais des zones, boutons
-sont coloré pour donner plus d'impact et mettre l'accent sur certaines informations.
+sont colorés pour donner plus d'impact et mettre l'accent sur certaines informations.
 
 Pour la partie e-commerce: Le style est bien plus coloré que l'autre partie. Il y aura toujours du blanc pour le contraste.
 Le site restera tout de même léger et épuré
@@ -136,7 +136,7 @@ qui indique bien à l'utilisateur que son panier est vide. Un bouton pour le red
 donc disponible juste en-dessous.
 
 Dans le pied-de-page, qui est commun à toutes les pages du site (partie e-commerce), on retrouve une navigation secondaire.
-C'est la même que dans l'en-tête mais elle permet une navigation à travers le site plus fluide. On y trouve aussi 
+C'est la même que dans l'en-tête mais elle permet un second moyen de navigation à travers le site. On y trouve aussi 
 les termes et conditions d'achat, les mentions légales et les liens des réseaux sociaux de Camille. On peut y voir aussi le logo
 mais en taille réduite.
 
@@ -147,7 +147,7 @@ Les différents types de contenus présents sur le site seront du texte, des ima
 Le code HTML doit respecter les standards SEO.
 
 ### Contraintes techniques
-Le site sera crée avec "Laravel". Pour la partie administration, le logiciel "Laravel Nova" sera utilisé.
+Le site sera crée avec "Laravel". Pour la partie administration, le logiciel "Statamic" sera utilisé.
 Le système de paiement pour acheter des tableaux sera fait avec "Stripe".
 
 Le site doit être compatible avec tous les navigateurs.

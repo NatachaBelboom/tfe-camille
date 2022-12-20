@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7dd83c-db17-47a6-bebf-848241a12fc9" name="Changes" comment="add readme">
+    <list default="true" id="3c7dd83c-db17-47a6-bebf-848241a12fc9" name="Changes" comment="changes readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,7 +54,8 @@
       <workItem from="1669198621892" duration="5282000" />
       <workItem from="1669640148123" duration="1316000" />
       <workItem from="1669648694488" duration="10000" />
-      <workItem from="1670403588649" duration="3464000" />
+      <workItem from="1670403588649" duration="4439000" />
+      <workItem from="1671545821416" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1667820118158</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669640247190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changes readme">
+      <created>1670408166103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670408166103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
+    <MESSAGE value="changes readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes readme" />
   </component>
 </project>
